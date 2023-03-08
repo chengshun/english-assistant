@@ -5,6 +5,7 @@
 .DS_Store
 
 .env
+.next
 
 # vercel
 .vercel
