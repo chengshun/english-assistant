@@ -1,7 +1,3 @@
-import * as dotenv from 'dotenv'
-
-dotenv.config();
-
 export default async function handler(req: any, res: any) {
   const { prompt } = req.body;
 
